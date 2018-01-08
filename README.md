@@ -70,3 +70,8 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
 # DanielBabcock.github.io
+
+
+# NOTES:
+- Switch over to moving large data sets from of things like the tech stack, blogs, 
+- Add groups involved with: Developer Launchpad, Free Code Camp, Code for Nashville, Nashville Blockchain Meetup, Tennessee Red Hat User Group (RHUG),
