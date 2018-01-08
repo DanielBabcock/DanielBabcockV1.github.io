@@ -1,4 +1,4 @@
-// "use strict"
+"use strict"
 // console.log("conversion.js: ");
 
 // formula you time will === (700/Your Power)*Listed Time
@@ -52,5 +52,5 @@ function yourTime() {
         
     };
 
-    yourTime();
-    console.log(" Something happening after yourTime: ");
+    // yourTime();
+    // console.log(" Something happening after yourTime: ");
