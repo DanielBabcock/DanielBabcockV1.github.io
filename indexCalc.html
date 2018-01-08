@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="microwave.css">
+    
+    <title>Microwave Time/Power Converter</title>
+</head>
+    <body>
+        <form>
+            <p>Your Microwave's Power Level</p>
+                <input type="number" id="power" placeholder="1100"></input>
+            <br>
+
+            <p>Enter listed cook time on packaging.</p>
+            <p>Minutes:</p>
+                <!-- <textarea id="cookTimeM" placeholder="5"></textarea> -->
+                <input type="number" id="cookTimeM" placeholder="5" ></input>
+            <p>Seconds:</p>
+                <!-- <textarea id="cookTimeS" placeholder="45"></textarea> -->
+                <input type="number" id="cookTimeS" placeholder="45" ></input>
+
+            <br>
+            <button id="calculate">Calculate New Time</button><br>
+
+            <br>
+            <p>Adjusted Time:</p>
+            Minutes:<div id="answerAreaA"></div>
+            Seconds:<div id="answerAreaB"></div>
+            <!-- <button id="answerAreaA" class="equals" data-result="">=</button> -->
+            <br>
+            <br>
+        </form>
+
+        <script src="js/conversion.js"></script> 
+    </body>
+</html>
