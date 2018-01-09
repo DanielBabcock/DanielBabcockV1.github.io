@@ -113,14 +113,3 @@ a {
   color: #000; }
   a:hover, a:focus, a:active {
     color: black; }
-
-.techs {
-  border: none;
-  border-radius: none;
-  box-shadow: none;
-  max-width: 20%; }
-
-.technos, .words {
-  background: white;
-  padding: 1em;
-  border-radius: 1em; }
