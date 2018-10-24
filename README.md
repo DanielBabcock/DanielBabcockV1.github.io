@@ -50,3 +50,21 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 ## Copyright and License
 
 Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-resume/blob/gh-pages/LICENSE) license.
+
+
+
+<!-- Add to Skills Section -->
+// {
+// 	"name": "Gulp",
+// 	"image": "img/techs/gulp.png"
+// },
+// {
+// 	"name": "Solidity",
+// 	"image": "img/techs/.png"
+// },
+
+// Ubuntu
+//   raspberry_pi
+// react
+// blockchain
+<!-- ^ Add to Skills Section ^ -->
