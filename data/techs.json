@@ -25,6 +25,10 @@
 			"image": "img/techs/grunt.png"
 		},
 		{
+			"name": "Gulp",
+			"image": "img/techs/gulp.png"
+		},
+		{
 			"name": "HTML5",
 			"image": "img/techs/html5.png"
 		},
@@ -62,7 +66,41 @@
         },
         {
 			"name": "Visual Studio Code",
-			"image": "img/techs/vsc.jpg"
+			"image": "img/techs/VSC.png"
+		},
+		{
+			"name": "React",
+			"image": "img/techs/react.png"
+		},
+		{
+			"name": "Markdown",
+			"image": "img/techs/markdown.png"
+		},
+		{
+			"name": "Lightroom",
+			"image": "img/techs/lightroom.png"
+		},
+		{
+			"name": "Photoshop",
+			"image": "img/techs/photoshop.png"
+		},
+		{
+			"name": "Wordpress",
+			"image": "img/techs/wordpress.jpg"
+		},
+		{
+			"name": "Apache",
+			"image": "img/techs/apache.png"
+		},
+		{
+			"name": "Java",
+			"image": "img/techs/java.png"
+		},
+		{
+			"name": "Jira",
+			"image": "img/techs/jira.jpeg"
 		}
 	]
 }
+
+	
