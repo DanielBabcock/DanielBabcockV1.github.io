@@ -54,17 +54,17 @@ Copyright 2013-2017 Blackrock Digital LLC. Code released under the [MIT](https:/
 
 
 <!-- Add to Skills Section -->
-// {
-// 	"name": "Gulp",
-// 	"image": "img/techs/gulp.png"
-// },
-// {
-// 	"name": "Solidity",
-// 	"image": "img/techs/.png"
-// },
+ <!-- {
+ 	"name": "Gulp",
+ 	"image": "img/techs/gulp.png"
+ },
+ {
+ 	"name": "Solidity",
+ 	"image": "img/techs/.png"
+ },
 
-// Ubuntu
-//   raspberry_pi
-// react
-// blockchain
+ Ubuntu
+ raspberry_pi
+react
+blockchain -->
 <!-- ^ Add to Skills Section ^ -->
